@@ -27,4 +27,4 @@ jobs:
     steps:
       - name: Group of log lines
         run: |
-          echo "adad"
+          echo ${{secrets.TEST}}
