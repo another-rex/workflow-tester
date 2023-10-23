@@ -14,6 +14,9 @@
 
 name: test scan action
 description: Performs a vulnerability scan with --- and reports the result.
+branding:
+  icon: alert-octagon
+  color: red
 
 permissions:
   contents: read
