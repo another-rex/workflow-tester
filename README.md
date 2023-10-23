@@ -1,2 +1,1 @@
-asdad
-fdafsfdfs
+This is a test vuln scanner action
